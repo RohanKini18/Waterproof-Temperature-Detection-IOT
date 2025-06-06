@@ -1,8 +1,8 @@
 # Waterproof Temperature Detection IOT
 DS18B20 waterproof temperature Detection sensor IOT
 ## Two Hosts links as follows <br>
- [(Online Stimulator - Click here)](https://wokwi.com/projects/432758200180907009)
-        [To Know More About Me](https://www.rohantkini.in/)
+ [Online Stimulator - Click here](https://wokwi.com/projects/432758200180907009)
+ [To Know More About Me](https://www.rohantkini.in/)
 
         
 ```💰 You can help me by Donating```
