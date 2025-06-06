@@ -3,10 +3,9 @@ DS18B20 waterproof temperature Detection sensor IOT
 # Note
 A complete project setup featuring the source code, detailed circuit diagram, and output results everything you need to build and verify the system.
 ## For More Info <br>
- [Online Stimulator - Click here](https://wokwi.com/projects/432758200180907009) 
+[![Click Here](https://media.giphy.com/media/3o7TKxOHZISZdYY1de/giphy.gif)](https://wokwi.com/projects/432758200180907009)
  <br>
- [To Know More About Me - Click here](https://www.rohantkini.in/)
-
+[![Visit My Site](https://media.giphy.com/media/xT9DPxggC1BMdG9Fz6/giphy.gif)](https://www.rohantkini.in/)
         
 ```💰 You can help me by Donating```
 
