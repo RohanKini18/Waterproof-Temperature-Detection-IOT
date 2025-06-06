@@ -1,5 +1,6 @@
 # Waterproof Temperature Detection IOT
-DS18B20 waterproof temperature Detection sensor IOT
+DS18B20 waterproof temperature Detection sensor IOT <br>
+```A system that uses the DS18B20 temperature sensor to measure and monitor temperature in various environments.```
 # Note
 A complete project setup featuring the source code, detailed circuit diagram, and output results everything you need to build and verify the system.
 ### 🚀 [**Live Circuit Simulator**](https://wokwi.com/projects/432758200180907009)  
